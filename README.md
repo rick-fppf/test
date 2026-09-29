@@ -1,2 +1,2 @@
 # test
-prueba AURO
+prueba Rick
